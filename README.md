@@ -17,3 +17,5 @@ The goal is to accurately classify each swahili news content into five specified
 - Biashara (Business)
 - Michezo (Sports)
 - Burudani (Entertainment)
+
+Get more details on the competition from [Zindi](https://zindi.africa/competitions/swahili-news-classification)
